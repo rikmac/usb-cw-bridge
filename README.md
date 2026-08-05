@@ -94,7 +94,7 @@ To avoid opening the terminal manually every time, you can create a handy deskto
 Questo progetto è un ponte di interfaccia per l'allenamento con il codice Morse (CW) su Linux.
 
 ## Hardware
-L'interfaccia utilizza il dispositivo **YWBL-WH USB CW Key Trainer Morse Code Practice Device** (basato sul chip CH552G): Aquistabile su Amazon
+L'interfaccia utilizza il dispositivo **YWBL-WH USB CW Key Trainer Morse Code Practice Device** (basato sul chip CH552G): Acquistabile su Amazon.
 
 ![YWBL-WH USB CW Key Trainer](USB-CW_Key_Trainer.jpg)
 
